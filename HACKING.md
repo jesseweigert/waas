@@ -45,7 +45,7 @@ Todo
   * End-to-end latency?
   * Network traffic if distributed?
 * System image
-  * Ubuntu 12.10 vs. 13.04?
+  * Ubuntu 12.10 vs. 13.04? (How about debian or CrunchBang?)
   * ROS with source build PCL1.6, see work arounds section
   * OLA compiled with http, c++ client lib, and e1.31 support
     * E1.31 configuration file
